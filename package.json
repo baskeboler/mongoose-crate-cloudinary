@@ -1,0 +1,19 @@
+{
+  "name": "mongoose-crate-cloudinary",
+  "version": "1.0.0",
+  "description": "Cloudinary provider for mongoose-crate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose",
+    "mongoose-crate"
+  ],
+  "author": "Victor Gil <baskeboler@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "check-types": "^7.0.0",
+    "cloudinary": "^1.4.1"
+  }
+}
