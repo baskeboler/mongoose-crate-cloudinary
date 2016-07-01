@@ -15,5 +15,13 @@
   "dependencies": {
     "check-types": "^7.0.0",
     "cloudinary": "^1.4.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baskeboler/mongoose-crate-cloudinary.git"
+  },
+  "bugs": {
+    "url": "https://github.com/baskeboler/mongoose-crate-cloudinary/issues"
+  },
+  "homepage": "https://github.com/baskeboler/mongoose-crate-cloudinary.git"
 }
