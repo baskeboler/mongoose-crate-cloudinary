@@ -1,6 +1,9 @@
 # mongoose-crate-cloudinary
 cloudinary storage provider for mongoose-crate
 
+## installation
+`$> npm install mongoose-crate-cloudinary --save`
+
 ## usage
 
 ```javascript 
