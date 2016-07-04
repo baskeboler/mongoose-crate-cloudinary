@@ -12,7 +12,7 @@ var crate = require('mongoose-crate'),
 var storageProvider = new CloudinaryStorageProvider({
     cloud_name: 'YOUR CLOUD NAME',
     api_key: 'YOUR API KEY',
-    api_secret: 'YOUR API SECRET
+    api_secret: 'YOUR API SECRET'
 });
 
 // Use in mongoose schema .. 
