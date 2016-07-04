@@ -1,9 +1,0 @@
-'use strict'
-
-var cloudinary = require('cloudinary');
-
-class CloudinaryStorageProvider {
-	constructor (options) {
-
-}
-}

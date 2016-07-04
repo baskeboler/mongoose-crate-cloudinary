@@ -14,7 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "check-types": "^7.0.0",
-    "cloudinary": "^1.4.1"
+    "cloudinary": "^1.4.1",
+    "debug": "^2.2.0"
   },
   "repository": {
     "type": "git",
